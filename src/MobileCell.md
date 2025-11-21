@@ -5,7 +5,7 @@
 > [!TIP]
 > Ev kiralama işleminden sonra mobil hat şirketinden ev interneti de alarak daha uygun bir fatura elde etmek mümkün. Burada önemli nokta evin lokasyonunda hangi şirketin altyapısının bulunduğu olacaktır. Şirketler kendi altyapısının bulunduğu yerlerde daha uygun servis vermektedir.
 
-## Numara Taşıma (MNP)
+## Numara Taşıma (MNP) — Sıkça Sorulan Sorular
 
 **Numara Taşınabilirliği (MNP) nedir?**  
 Numara Taşınabilirliği, bir mobil operatörden diğerine geçerken mevcut cep telefonu numaranızı korumanızı sağlar.
