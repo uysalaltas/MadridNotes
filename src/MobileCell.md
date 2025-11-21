@@ -25,7 +25,7 @@ Evet. Numara taşıma hem faturalı hem ön ödemeli numaralar için mümkündü
 **Numara taşındıktan sonra ön ödemeli hattımda kalan kredi ne olur?**  
 Numara taşındıktan sonra ön ödemeli hattınızdaki bakiye kaybolur.
 
-Daha fazlası ve güncel detaylar için: https://www.mobilenumberportability.com/es/mnp-faqs/
+Daha fazlası ve güncel detaylar için:[ MobileNumberPortability](https://www.mobilenumberportability.com/es/mnp-faqs/)
 
 Aşağıda farklı şirketleri tablo halinde karşılaştırdım:
 
