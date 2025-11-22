@@ -97,11 +97,11 @@ Madrid’de devlet destekli, özel okullara kıyasla çok daha ekonomik olan EOI
 
 | EOI Merkezi | Zamanlama | Fiyat | Açıklama |
 |-------------|-----------|--------|----------|
-| **EOI Ciudad Lineal**  <br> https://www.educa2.madrid.org/web/eoi.ciudadlineal.madrid | Haftada 2–3 gün, akşam 17:00–21:00 | ~€250–€350 yıllık | Merkezi bölgede; talep yüksek olduğu için yer hızlı dolar. |
-| **EOI Jesús Maestro (Merkez)**  <br> https://www.educa2.madrid.org/web/centro.eoi.jesusmaestro.madrid | Akşam ağırlıklı; bazı sabah opsiyonları olabilir | ~€250–€350 yıllık | Madrid'in en büyük EOI’si — genellikle çekiliş uygulanır. |
-| **EOI Moratalaz**  <br> https://www.educa2.madrid.org/web/eoi.moratalaz.madrid | Haftada 2–3 gün, akşam | ~€250–€350 yıllık | Görece daha kolay yer bulunabilen bir merkez. |
-| **EOI Villaverde**  <br> https://www.educa2.madrid.org/web/eoi.villaverde.madrid | Akşam ağırlıklı; bazı sabah seçenekleri | ~€250–€350 yıllık | Madrid'in güneyinde; yoğunluğu daha düşüktür. |
-| **EOI Príncipe de Asturias**  <br> https://www.educa2.madrid.org/web/centro.eoi.principedeasturias.madrid | 17:00–21:00 arası, haftada 2–3 gün | ~€250–€350 yıllık | Modern tesis; orta yoğunlukta talep görür. |
+| [**EOI Ciudad Lineal**](https://www.educa2.madrid.org/web/eoi.ciudadlineal.madrid) | Haftada 2–3 gün, akşam 17:00–21:00 | ~€250–€350 yıllık | Merkezi bölgede; talep yüksek olduğu için yer hızlı dolar. |
+| [**EOI Jesús Maestro (Merkez)**](https://www.educa2.madrid.org/web/centro.eoi.jesusmaestro.madrid) | Akşam ağırlıklı; bazı sabah opsiyonları olabilir | ~€250–€350 yıllık | Madrid'in en büyük EOI’si — genellikle çekiliş uygulanır. |
+| [**EOI Moratalaz**](https://www.educa2.madrid.org/web/eoi.moratalaz.madrid) | Haftada 2–3 gün, akşam | ~€250–€350 yıllık | Görece daha kolay yer bulunabilen bir merkez. |
+| [**EOI Villaverde**](https://www.educa2.madrid.org/web/eoi.villaverde.madrid) | Akşam ağırlıklı; bazı sabah seçenekleri | ~€250–€350 yıllık | Madrid'in güneyinde; yoğunluğu daha düşüktür. |
+| [**EOI Príncipe de Asturias**](https://www.educa2.madrid.org/web/centro.eoi.principedeasturias.madrid) | 17:00–21:00 arası, haftada 2–3 gün | ~€250–€350 yıllık | Modern tesis; orta yoğunlukta talep görür. |
 
 ---
 
