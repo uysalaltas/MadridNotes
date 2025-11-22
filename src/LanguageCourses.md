@@ -45,14 +45,14 @@ Bu okullar genellikle:
 
 | Okul | Kurs Türü / Program | Zamanlama | Fiyat / Notlar |
 |------|---------------------|-----------|----------------|
-| [Inhispania](https://inhispania.com/courses/evening-spanish-courses/?utm_source=chatgpt.com) | Evening Spanish Course | Haftada 2 gün — 19:00–21:00 | ~€190 / 4 hafta |
-| [Cronopios Idiomas](https://cronopiosidiomas.com/evening-spanish-classes-in-madrid/?utm_source=chatgpt.com) | Evening Spanish Course | Pzt & Çar 18:00–19:30 | 15 hafta = €480 |
-| [AIL Madrid](https://ailmadrid.com/courses/evening-spanish-course-in-madrid/?utm_source=chatgpt.com) | Evening + Weekend Courses | 18:20–20:00 veya 20:10–21:50 | ~€140’dan başlayan fiyatlar |
-| [Hablamos Spanish School](https://www.escuela-hablamos.com/en/spanish-evening-course/?utm_source=chatgpt.com) | Evening Spanish Course | Pzt–Çar veya Salı–Perş | ~€109/ay + kayıt ücreti |
-| [Vamos Spanish Academy](https://vamospanish.com/madrid/evening-weekend-spanish-classes-in-madrid/?utm_source=chatgpt.com) | Evening & Weekend | Hafta içi 18:00–21:00, Cmt 09:00–13:00 | Özel ders €26/saat, grup ~€19/saat |
-| [Tandem Madrid](https://www.tandemmadrid.com/c/extensive-course-2-days-week/?utm_source=chatgpt.com) | Evening Spanish Course | Pzt & Çar veya Salı & Perş 18:30–21:00 | 12 hafta = €378 |
-| [Eureka Madrid](https://www.eurekamadrid.com/en/spanish-courses/evening-courses/?utm_source=chatgpt.com) | Evening Courses | Pzt–Çar veya Salı–Perş 19:30–21:00 | Maks. 10 kişi |
-| [LAE Madrid](https://laemadrid.com/wp-content/uploads/2024/06/2024-Prices-LAE-Madrid.pdf?utm_source=chatgpt.com) | Evening Course | Esnek akşam saatleri | ~€125/ay |
+| [Inhispania](https://inhispania.com/courses/evening-spanish-courses/) | Evening Spanish Course | Haftada 2 gün — 19:00–21:00 | ~€190 / 4 hafta |
+| [Cronopios Idiomas](https://cronopiosidiomas.com/evening-spanish-classes-in-madrid/) | Evening Spanish Course | Pzt & Çar 18:00–19:30 | 15 hafta = €480 |
+| [AIL Madrid](https://ailmadrid.com/courses/evening-spanish-course-in-madrid/) | Evening + Weekend Courses | 18:20–20:00 veya 20:10–21:50 | €140/4 hafta |
+| [Hablamos Spanish School](https://www.escuela-hablamos.com/en/spanish-evening-course/) | Evening Spanish Course | Pzt–Çar veya Salı–Perş | €109/ay |
+| [Vamos Spanish Academy](https://vamospanish.com/madrid/evening-weekend-spanish-classes-in-madrid/) | Evening & Weekend | Hafta içi 18:00–21:00, Cmt 09:00–13:00 | Özel ders €26/saat, grup ~€19/saat |
+| [Tandem Madrid](https://www.tandemmadrid.com/c/extensive-course-2-days-week/) | Evening Spanish Course | Pzt & Çar veya Salı & Perş 18:30–21:00 | €156/4 hafta |
+| [Eureka Madrid](https://www.eurekamadrid.com/en/spanish-courses/evening-courses/) | Evening Courses | Pzt–Çar veya Salı–Perş 19:30–21:00 | €120/4 hafta |
+| [LAE Madrid](https://laemadrid.com/course/evening-spanish-course/) | Evening Course | Esnek akşam saatleri | €125/4 hafta |
 
 ---
 
